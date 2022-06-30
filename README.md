@@ -1,2 +1,2 @@
 # annotator
-This a VGG Annotator taken from VGG websight
+This is a VGG Annotator for Object detection or Image segmentation task, taken from VGG websight.
